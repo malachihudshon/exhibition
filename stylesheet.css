@@ -1,0 +1,21 @@
+h1{
+	font-size:50px;
+    color:red;
+}
+body{
+		background-color:rgb(51, 153, 255);
+		color:red;
+		font-family:Times New Roman;
+		cursor:wait;
+    }
+a{
+   font-size:50px;
+   color:red;
+}
+p{
+	color:red;
+	font-size:20px;
+}
+ul{
+	margin-left:0px
+}
